@@ -1,3 +1,5 @@
+status: ACCEPTED
+time: 0.069
 This program takes two long long integer inputs from stdin.
 If two integer inputs are not given, the while loop closes.
 

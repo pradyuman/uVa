@@ -14,12 +14,7 @@ int main(){
 	cache[1] = 1;
 	while(scanf("%u %u", &n, &m) == 2){
 		unsigned int max = 0;
-		if(n > m){
-			temp = n;
-			n = m;
-			m = temp;
-		}
-		for(i = n; i <= m; i++){
+		for(i = (n<m?n:m); i <= (n<m?m:n); i++){
 			ans = cycle(i);
 			(max < ans)?(max = ans):max;
 		}
