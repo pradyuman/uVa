@@ -1,4 +1,4 @@
-Status: **Accepted - 0.042s**
+Status: **Accepted | 0.042s**
 
 This algorithm takes an unsigned int from stdin and puts it through a recursive algorithm *cycle*. *cycle* is called from a *for* loop in *main* for *|m - n|* iterations.
 
