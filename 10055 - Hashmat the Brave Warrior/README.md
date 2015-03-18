@@ -1,4 +1,4 @@
-Status: ACCEPTED
+Status: Accepted
 
 Time: 0.069s
 
