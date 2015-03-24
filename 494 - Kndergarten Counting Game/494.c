@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 int main(){
@@ -14,4 +15,5 @@ int main(){
 		printf("%d\n", count);
 	}
 	return 0;
+>>>>>>> e2433fdfafbcf989c2859ef56089bb63a5e8ae98
 }
