@@ -1,3 +1,4 @@
+/* Problem 494 */
 #include <stdio.h>
 
 int main(){
