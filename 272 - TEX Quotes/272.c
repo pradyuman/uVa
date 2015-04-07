@@ -4,7 +4,7 @@
 int main(){
 	int ch;
 	int n = 0;
-	while((ch = getchar()) !=EOF){
+	while((ch = getchar()) != EOF){
 		if(ch == '"'){
 			n++;
 			printf("%s", n&1?"``":"''");
